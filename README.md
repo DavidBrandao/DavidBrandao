@@ -1,13 +1,14 @@
 <div>
   <a href="https://github.com/DavidBrandao"></a>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DavidBrandao&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBrandao&layout=compact&langs_count=16&theme=merko" />
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=DavidBrandao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBrandao&layout=compact&langs_count=16&theme=midnight-purple" />
 </div>
 <p></p>
+<br/>
 
 <!--<img align="right" alt="#" src="#" width="250px" />--> 
 
-# About me
+<!--# About me-->
   
 🧑‍💻 I'm a Computer Engineer, passionate about software automation and developing IoT solutions.
 
@@ -16,10 +17,9 @@
   - Back-End (API/Contract)
   - Unit (Java and C#)
 
-📑 The projects are created by using page object model, supported by tools and 
-frameworks.
+📑 The projects are created by using page object model and scenaries written in gherkin.
 
-📁 Test Libs: Capybara, Rspec HttParty, Savon.
+📚 Test Libs: Capybara, Rspec HttParty, Savon.
 
 🛠 Tools: Nunit, Junit and Appium.
   
